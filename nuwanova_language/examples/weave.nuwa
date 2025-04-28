@@ -1,0 +1,8 @@
+route '/'
+respond '這是首頁'
+
+route '/about'
+respond '這是關於頁面'
+
+route '/contact'
+respond '這是聯絡頁面'
