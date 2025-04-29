@@ -1,0 +1,14 @@
+# 忽略編譯產物與暫存檔
+__pycache__/
+*.pyc
+*.pyo
+
+# 忽略系統自動檔
+.DS_Store
+
+# 忽略備忘筆記
+memo.md
+
+# 忽略編輯器設定（可選）
+.vscode/
+.idea/
