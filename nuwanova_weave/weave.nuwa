@@ -1,5 +1,6 @@
 url '/'
-say '這是首頁'
+say 'hello'
+show 'index.html'
 
 url '/about'
 show 'about.html'
